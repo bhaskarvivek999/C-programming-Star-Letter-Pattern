@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697566016 source:d:\full stack guru\c progamming\projects\letterpatterns\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getPattern.h"
+
+1697563105 d:\full stack guru\c progamming\projects\letterpatterns\getpattern.h
+
+1697564203 source:d:\full stack guru\c progamming\projects\letterpatterns\getpattern.c
+	<stdio.h>
+	"getPattern.h"
+
+1697290625 source:d:\full stack guru\c progamming\projects\letterpatterns\functionstructure.c
+
